@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidPertama</string>
+    <string name="title">Hello Android!</string>
+    <string name="welcome">Selamat datang, Cari sayuran anda</string>
 </resources>
